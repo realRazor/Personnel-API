@@ -6,6 +6,14 @@ API applications were made in this project. In addition to my previous projects,
     You can examine the contents of these files by following the src/middleware path.
 You can review all the details of the project in the src folder. I tried to write fairly clean code. Have a nice day!
 
+### ERD:
+
+![ERD](./images/erdPersonnelAPI.png)
+
+### Swagger
+![Swagger](./images/swagger1.png)
+
+
 
 ### Folder/File Structure:
 
@@ -47,11 +55,4 @@ You can review all the details of the project in the src folder. I tried to writ
             index.js
 ```
 
-
-### ERD:
-
-![ERD](./images/erdPersonnelAPI.png)
-
-### Swagger
-![Swagger](./images/swagger1.png)
 

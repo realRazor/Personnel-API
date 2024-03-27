@@ -50,5 +50,8 @@ You can review all the details of the project in the src folder. I tried to writ
 
 ### ERD:
 
-![ERD](./erdPersonnelAPI.png)
+![ERD](./images/erdPersonnelAPI.png)
+
+### Swagger
+![Swagger](./images/swagger1.png)
 

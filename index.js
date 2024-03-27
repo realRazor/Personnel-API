@@ -67,7 +67,7 @@ app.use(require('./src/middlewares/logging'))
 app.use(require('cookie-session')({ secret: process.env.SECRET_KEY }))
 
 // res.getModelList():
-app.use(require('./src/middlewares/findSearchSortPage'))
+app.use(require('./src/middlewares/queryHandler'))
 
 /* ------------------------------------------------------- *
 

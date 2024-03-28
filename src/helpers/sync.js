@@ -40,7 +40,7 @@ module.exports = async function() {
                     salary: 2500,
                     description: "description",
                     isActive: true,
-                    isAdmin: false,
+                    isAdmin: true,
                     isLead: false,
                     startedAt: "2023-10-15 13:14:15"
                 })

@@ -86,9 +86,9 @@ app.all('/', (req, res) => {
         message: 'Welcome to PERSONNEL API',
         api: {
             documents: {
-                swagger: 'documents/swagger',
-                redoc: 'documents/redoc',
-                json: 'documents/json',
+                swagger: 'https://personnel-api-weld.vercel.app/documents/swagger',
+                redoc: 'https://personnel-api-weld.vercel.app/documents/redoc',
+                json: 'https://personnel-api-weld.vercel.app/documents/json',
             },
             contact: 'mtalhayesilyurtt@gmail.com'
         },

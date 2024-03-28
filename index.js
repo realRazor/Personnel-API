@@ -90,7 +90,7 @@ app.all('/', (req, res) => {
                 redoc: 'http://127.0.0.1:8000/documents/redoc',
                 json: 'http://127.0.0.1:8000/documents/json',
             },
-            contact: 'yesilyurttalha2534@gmail.com'
+            contact: 'mtalhayesilyurtt@gmail.com'
         },
         // session: req.session,
         // isLogin: req.isLogin,

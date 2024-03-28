@@ -13,7 +13,7 @@
       "name": "ISC"
     }
   },
-  "host": "127.0.0.1:8000",
+  "host": "https://personnel-api-weld.vercel.app",
   "basePath": "/",
   "schemes": [
     "http",
@@ -246,9 +246,9 @@
       },
       "post": {
         "tags": [
-          "Departments"
+          "Personnels"
         ],
-        "summary": "Create Department",
+        "summary": "Create Personnels",
         "description": "",
         "parameters": [
           {
@@ -702,7 +702,7 @@
             },
             "default": {
               "type": "number",
-              "example": 1711543387151
+              "example": 1711637805039
             }
           }
         }

@@ -1,3 +1,6 @@
+# LIVE SERVER :
+https://personnel-api-weld.vercel.app/
+
 # PERSONNEL API
 
 API applications were made in this project. In addition to my previous projects, I have made a few additions to this project. For example, I added validation to the queries made by the user using Token (I removed the token controllers from Swagger. Because it makes no sense to make token information public. The user can only see his own token information). I recorded log queries of every request made. Additionally, as a result of the queries, I checked whether the user was authorized to do what he wanted to do (Authority Check).

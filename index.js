@@ -86,9 +86,9 @@ app.all('/', (req, res) => {
         message: 'Welcome to PERSONNEL API',
         api: {
             documents: {
-                swagger: 'http://127.0.0.1:8000/documents/swagger',
-                redoc: 'http://127.0.0.1:8000/documents/redoc',
-                json: 'http://127.0.0.1:8000/documents/json',
+                swagger: 'documents/swagger',
+                redoc: 'documents/redoc',
+                json: 'documents/json',
             },
             contact: 'mtalhayesilyurtt@gmail.com'
         },
